@@ -1,0 +1,1594 @@
+{
+    "timestamp": "2026-10-11 01:42:01",
+    "accessible_count": 0,
+    "inaccessible_count": 198,
+    "total_count": 198,
+    "has_author_link_count": 0,
+    "author_url": "blog.liushen.fun",
+    "link_status": [
+        {
+            "name": "<!DOCTYPE html><html data-astro-transition-scope=\"astro-yztbsuuz-2\" lang=\"zh-CN\"> <head><meta charset=\"UTF-8\"> <meta name=\"viewport\" content=\"width=device-width",
+            "link": " initial-scale=1.0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "viewport-fit=cover\"> <link rel=\"icon\" type=\"image/svg+xml\" href=\"/favicon.ico\"> <meta name=\"generator\" content=\"Astro v7.1.3\">   <link rel=\"stylesheet\" href=\"/fonts/ChillRoundFRegular/result.css\" media=\"print\" onload=\"this.setAttribute('media'"
+        },
+        {
+            "name": "æ°æ®ç± astro-seo ç®¡ç --> <title>æªä¼¼é£ä¸æ¯ = å­¦ä¹ ææ¯ åäº«çæ´»</title>  <link rel=\"canonical\" href=\"https://www.weisifengbuxi.top/\"> <meta name=\"description\" content=\"è¿æ²¡æ³å¥½\"> <meta name=\"robots\" content=\"index",
+            "link": " follow\"> <meta property=\"og:title\" content=\"æªä¼¼é£ä¸æ¯ = å­¦ä¹ ææ¯ åäº«çæ´»\"> <meta property=\"og:type\" content=\"website\"> <meta property=\"og:image\" content=\"https://www.weisifengbuxi.top/img/avatar.jpg\"> <meta property=\"og:url\" content=\"https://www.weisifengbuxi.top/\">  <meta property=\"og:description\" content=\"è¿æ²¡æ³å¥½\">    <meta property=\"og:site_name\" content=\"æªä¼¼é£ä¸æ¯\">    <meta name=\"twitter:card\" content=\"summary_large_image\">  <meta name=\"twitter:title\" content=\"æªä¼¼é£ä¸æ¯ = å­¦ä¹ ææ¯ åäº«çæ´»\"> <meta name=\"twitter:image\" content=\"https://www.weisifengbuxi.top/img/avatar.jpg\">  <meta name=\"twitter:description\" content=\"è¿æ²¡æ³å¥½\">   <meta name=\"author\" content=\"æªä¼¼é£ä¸æ¯\">   <meta name=\"keywords\" content=\"åå®¢",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "å­¦ä¹ ç¬è®°"
+        },
+        {
+            "name": "  transition: transform 300ms ease-out",
+            "link": " opacity 150ms 150ms ease-in;",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.76",
+            "link": " 0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.24"
+        },
+        {
+            "name": "    element.style.setProperty('--progress'",
+            "link": " String(progress))",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "    element.style.setProperty('opacity'",
+            "link": " String(opacity))",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "  document.addEventListener(\"astro:before-preparation\"",
+            "link": " () => {",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "  document.addEventListener(\"astro:before-preparation\"",
+            "link": " () => {",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "      }",
+            "link": " animationDuration)",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "    }",
+            "link": " threshold)",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "  document.addEventListener(\"astro:before-swap\"",
+            "link": " (ev) => {",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "    }",
+            "link": " animationDuration / 2)",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "    }",
+            "link": " animationDuration * 2)",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "    function applyTheme(theme",
+            "link": " target) {",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "      root.classList.toggle('dark'",
+            "link": " theme === 'dark');",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "    document.addEventListener('astro:after-swap'",
+            "link": " function() {",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "    document.addEventListener('astro:before-swap'",
+            "link": " function(event) {",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "      applyTheme(getTheme()",
+            "link": " event.newDocument.documentElement);",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "    document.addEventListener('astro:after-swap'",
+            "link": " function() {",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "    document.documentElement.classList.toggle('christmas'",
+            "link": " enabled);",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "const mournDays = [\"4-5\"",
+            "link": "5-12",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "7-7"
+        },
+        {
+            "name": "      var path = String(pathname || '/').replace(/\\/+$/",
+            "link": " '') || '/';",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "    function apply(root",
+            "link": " pathname) {",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "    apply(document.documentElement",
+            "link": " window.location.pathname);",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "    document.addEventListener('astro:before-swap'",
+            "link": " function (event) {",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "      if (nextDoc && nextDoc.documentElement) apply(nextDoc.documentElement",
+            "link": " nextPath);",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "    document.addEventListener('astro:after-swap'",
+            "link": " function () {",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "      apply(document.documentElement",
+            "link": " window.location.pathname);",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "})();</script> <script>(function(){const STORAGE_KEYS = {\"fontPreset\":\"reader-font-preset\"",
+            "link": "fontFamily:\"reader-font-family\"",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "fontSize:\"reader-font-size\""
+        },
+        {
+            "name": "const READER_DEFAULTS = {\"fontPreset\":\"round\"",
+            "link": "fontSize:16",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "lineHeight:1.8"
+        },
+        {
+            "name": "const GENERAL_DEFAULTS = {\"scrollProgress\":true",
+            "link": "bgmWidget:true",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "wave:true};"
+        },
+        {
+            "name": "const FONT_PRESETS = [\"round\"",
+            "link": "system",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "serif"
+        },
+        {
+            "name": "const MOTION_LEVELS = [\"lively\"",
+            "link": "subtle",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "reduced];"
+        },
+        {
+            "name": "    function readBoolean(key",
+            "link": " fallback) {",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "    function readBoolean(key",
+            "link": " fallback) {",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "      root.setAttribute('data-font-preset'",
+            "link": " preset);",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "        .slice(0",
+            "link": " READER_FONT_FAMILY_MAX_LENGTH);",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "        root.setAttribute('data-reader-font'",
+            "link": " 'local');",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "        root.style.setProperty('--reader-font-family'",
+            "link": " quoteFontFamily(fontFamily));",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "      var fontSize = readPositiveNumber(STORAGE_KEYS.fontSize",
+            "link": " READER_DEFAULTS.fontSize);",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "      root.style.setProperty('--reader-font-size'",
+            "link": " fontSize + 'px');",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "      root.style.setProperty('--reader-line-height'",
+            "link": " String(readPositiveNumber(STORAGE_KEYS.lineHeight",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "READER_DEFAULTS.lineHeight)));"
+        },
+        {
+            "name": "        root.style.setProperty('--reader-measure'",
+            "link": " measure * 0.5 * fontSize + 'px');",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "      root.classList.toggle('reader-justify'",
+            "link": " readBoolean(STORAGE_KEYS.justify",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "READER_DEFAULTS.justify));"
+        },
+        {
+            "name": "      root.classList.toggle('motion-off'",
+            "link": " motionLevel === 'reduced' || reducedMotionQuery.matches);",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "      root.classList.toggle('wave-off'",
+            "link": " !readBoolean(STORAGE_KEYS.wave",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "GENERAL_DEFAULTS.wave));"
+        },
+        {
+            "name": "    reducedMotionQuery.addEventListener('change'",
+            "link": " function () {",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "    // Write into the incoming <html> as well: the swap clears the root's attributes",
+            "link": " and a style pass",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "    document.addEventListener('astro:before-swap'",
+            "link": " function (event) {",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "    document.addEventListener('astro:after-swap'",
+            "link": " function () {",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "    /* Long code blocks ship pre-collapsed; without JS the toolbar never hydrates",
+            "link": " so force them open. */",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": ".post-item-card[data-astro-cid-gfdrlw66]{transition:transform var(--dur-slow) var(--ease-out-quart)",
+            "link": " box-shadow var(--dur-slow) var(--ease-out-quart)}.post-item-card[data-astro-cid-gfdrlw66]:has(a:focus-visible){outline:2px solid hsl(var(--primary));outline-offset:3px}.post-item-cover[data-astro-cid-gfdrlw66]{transition:clip-path .9s var(--ease-out-expo)}.post-item-cover[data-astro-cid-gfdrlw66] img[data-astro-cid-gfdrlw66]{transition:scale .9s var(--ease-out-expo)",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "filter .9s var(--ease-out-expo)}@media (hover:hover){.post-item-card[data-astro-cid-gfdrlw66]:hover{transform:translateY(-.25rem);box-shadow:0 1.25rem 2.5rem -1.25rem #e9546b66"
+        },
+        {
+            "name": ".flip-card[data-astro-cid-zwsxqmrs]{perspective:1000px;background-color:#0000;position:relative}.flip-card[data-astro-cid-zwsxqmrs]:before{content:\"\";z-index:10;pointer-events:none;position:absolute;inset:0}.flip-card-inner[data-astro-cid-zwsxqmrs]{text-align:center;width:100%;height:100%;transition:transform .72s var(--ease-in-out-quart);transform-style:preserve-3d;will-change:transform;pointer-events:none;position:relative}.flip-card[data-astro-cid-zwsxqmrs]:not(.flip-card-disabled):hover .flip-card-inner[data-astro-cid-zwsxqmrs]{transition-delay:calc(var(--delay) * 1ms);transform:rotateY(-180deg)}.flip-card-front[data-astro-cid-zwsxqmrs]",
+            "link": ".flip-card-back[data-astro-cid-zwsxqmrs]{backface-visibility:hidden;width:100%;height:100%;transform-style:preserve-3d;pointer-events:auto;border-radius:.5rem;position:absolute}.flip-card-front[data-astro-cid-zwsxqmrs]{z-index:2}.flip-card-back[data-astro-cid-zwsxqmrs]{transform:rotateY(-180deg)}.flip-card-disabled[data-astro-cid-zwsxqmrs]{cursor:not-allowed;opacity:.6}.flip-card-front[data-astro-cid-zwsxqmrs]",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ".flip-card-back[data-astro-cid-zwsxqmrs]{transition:all calc(var(--duration) * 1ms) ease-in-out}.flip-card[data-astro-cid-zwsxqmrs]:not(.flip-card-disabled):hover .flip-card-front[data-astro-cid-zwsxqmrs]"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.76",
+            "link": " 0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.24"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.76",
+            "link": " 0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.24"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.76",
+            "link": " 0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.24"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.76",
+            "link": " 0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.24"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.76",
+            "link": " 0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.24"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.76",
+            "link": " 0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.24"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.76",
+            "link": " 0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.24"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.76",
+            "link": " 0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.24"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.25",
+            "link": " 1",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.5"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.25",
+            "link": " 1",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.5"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.25",
+            "link": " 1",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.5"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.25",
+            "link": " 1",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.5"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.25",
+            "link": " 1",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.5"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.25",
+            "link": " 1",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.5"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.25",
+            "link": " 1",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.5"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.25",
+            "link": " 1",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.5"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.76",
+            "link": " 0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.24"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.76",
+            "link": " 0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.24"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.76",
+            "link": " 0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.24"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.76",
+            "link": " 0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.24"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.76",
+            "link": " 0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.24"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.76",
+            "link": " 0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.24"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.76",
+            "link": " 0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.24"
+        },
+        {
+            "name": "\tanimation-timing-function: cubic-bezier(0.76",
+            "link": " 0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0.24"
+        },
+        {
+            "name": "\tanimation-name: astroFadeIn; }</style></head> <body>   <universe-canvas class=\"universe-canvas\" data-density=\"0.216\" data-only-dark=\"true\" aria-hidden=\"true\" data-astro-cid-4zxoj33f=\"true\"> <canvas data-astro-cid-4zxoj33f></canvas> </universe-canvas> <script type=\"module\" src=\"/_astro/UniverseCanvas.astro_astro_type_script_index_0_lang.CYzf-0f-.js\"></script> <div class=\"flex min-h-screen flex-col text-black dark:text-white\"> <div id=\"site-header\" class=\"shadow-text fixed tablet:backdrop-blur inset-x-0 top-0 z-30 gap-4 py-2.5 text-white select-none tablet:py-2 tablet:pl-3 tablet:pr-0 overflow-visible\"> <div class=\"header-inner mx-auto tablet:w-full px-6 tablet:pl-10 tablet:pr-3 max-w-[min(100%-6rem",
+            "link": "110rem)]\"> <div class=\"header-capsule\" aria-hidden=\"true\"></div> <div class=\"header-content flex items-center justify-between\"> <!-- Desktop: å®ç¨å·¥å",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "·\" data-astro-cid-t6iwgimb> <div class=\"tools-menu-group\" data-astro-cid-t6iwgimb> <p class=\"tools-menu-title\" data-astro-cid-t6iwgimb>ç½é¡µ</p> <div class=\"tools-menu-list\" data-astro-cid-t6iwgimb> <a class=\"tools-menu-item\" href=\"https://www.weisifengbuxi.top/\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"åå®¢\" data-astro-cid-t6iwgimb> <img class=\"tools-menu-icon\" src=\"/img/avatar.jpg\" alt=\"\" loading=\"lazy\" decoding=\"async\" data-astro-cid-t6iwgimb> <span class=\"tools-menu-text\" data-astro-cid-t6iwgimb>åå®¢</span> </a><a class=\"tools-menu-item\" href=\"https://www.weisifengbuxi.top/about/\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"ä¸ªäººä¸»é¡µ\" data-astro-cid-t6iwgimb> <img class=\"tools-menu-icon\" src=\"/img/avatar.jpg\" alt=\"\" loading=\"lazy\" decoding=\"async\" data-astro-cid-t6iwgimb> <span class=\"tools-menu-text\" data-astro-cid-t6iwgimb>ä¸ªäººä¸»é¡µ</span> </a> </div> </div><div class=\"tools-menu-group\" data-astro-cid-t6iwgimb> <p class=\"tools-menu-title\" data-astro-cid-t6iwgimb>é¡¹ç®</p> <div class=\"tools-menu-list\" data-astro-cid-t6iwgimb> <a class=\"tools-menu-item\" href=\"https://imgse.com/\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"è·¯è¿å¾åº\" data-astro-cid-t6iwgimb> <span class=\"tools-menu-icon tools-menu-icon-empty\" aria-hidden=\"true\" data-astro-cid-t6iwgimb> è·¯ </span> <span class=\"tools-menu-text\" data-astro-cid-t6iwgimb>è·¯è¿å¾åº</span> </a><a class=\"tools-menu-item\" href=\"https://www.pdfpai.com/\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"PDFæ´¾\" data-astro-cid-t6iwgimb> <img class=\"tools-menu-icon\" src=\"/img/tools/pdfpai.ico\" alt=\"\" loading=\"lazy\" decoding=\"async\" data-astro-cid-t6iwgimb> <span class=\"tools-menu-text\" data-astro-cid-t6iwgimb>PDFæ´¾</span> </a><a class=\"tools-menu-item\" href=\"https://www.itdog.cn/\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"ITDOG\" data-astro-cid-t6iwgimb> <img class=\"tools-menu-icon\" src=\"/img/tools/itdog.ico\" alt=\"\" loading=\"lazy\" decoding=\"async\" data-astro-cid-t6iwgimb> <span class=\"tools-menu-text\" data-astro-cid-t6iwgimb>ITDOG</span> </a><a class=\"tools-menu-item\" href=\"https://www.drawio.com/\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"draw.io\" data-astro-cid-t6iwgimb> <img class=\"tools-menu-icon\" src=\"/img/tools/drawio.ico\" alt=\"\" loading=\"lazy\" decoding=\"async\" data-astro-cid-t6iwgimb> <span class=\"tools-menu-text\" data-astro-cid-t6iwgimb>draw.io</span> </a><a class=\"tools-menu-item\" href=\"https://www.geogebra.org/\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"GeoGebra\" data-astro-cid-t6iwgimb> <img class=\"tools-menu-icon\" src=\"/img/tools/geogebra.ico\" alt=\"\" loading=\"lazy\" decoding=\"async\" data-astro-cid-t6iwgimb> <span class=\"tools-menu-text\" data-astro-cid-t6iwgimb>GeoGebra</span> </a><a class=\"tools-menu-item\" href=\"https://pan.moe/\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"èç\" data-astro-cid-t6iwgimb> <img class=\"tools-menu-icon\" src=\"/img/tools/panmoe.ico\" alt=\"\" loading=\"lazy\" decoding=\"async\" data-astro-cid-t6iwgimb> <span class=\"tools-menu-text\" data-astro-cid-t6iwgimb>èç</span> </a> </div> </div><div class=\"tools-menu-group\" data-astro-cid-t6iwgimb> <p class=\"tools-menu-title\" data-astro-cid-t6iwgimb>æå¡</p> <div class=\"tools-menu-list\" data-astro-cid-t6iwgimb> <a class=\"tools-menu-item\" href=\"https://v6.51.la/\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"51laç»è®¡\" data-astro-cid-t6iwgimb> <img class=\"tools-menu-icon\" src=\"/img/tools/51la.ico\" alt=\"\" loading=\"lazy\" decoding=\"async\" data-astro-cid-t6iwgimb> <span class=\"tools-menu-text\" data-astro-cid-t6iwgimb>51laç»è®¡</span> </a><a class=\"tools-menu-item\" href=\"https://github.com/travellings-link/travellings\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"å¼å¾\" data-astro-cid-t6iwgimb> <img class=\"tools-menu-icon\" src=\"/img/tools/github.svg\" alt=\"\" loading=\"lazy\" decoding=\"async\" data-astro-cid-t6iwgimb> <span class=\"tools-menu-text\" data-astro-cid-t6iwgimb>å¼å¾</span> </a> </div> </div> </div> </div> <!-- Desktop: Always show logo --> <a data-astro-transition-persist=\"page-header-avatar\" class=\"site-logo tablet:hidden -my-4 mr-4 flex cursor-pointer items-center justify-center gap-1 whitespace-nowrap\" href=\"/\" target=\"_self\" title=\"æªä¼¼é£ä¸æ¯\" aria-label=\"æªä¼¼é£ä¸æ¯\"> <p class=\"logo-text\">æªä¼¼é£ä¸æ¯</p> </a> <!-- Mobile: MobilePostHeader (shows heading on post pages",
+            "link": " logo otherwise) --> <div class=\"tablet:flex tablet:grow hidden items-center justify-center\"> <style>astro-island",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "astro-slot"
+        },
+        {
+            "name": "å¤</a></nav><div class=\"ml-auto flex items-center gap-2\"><button type=\"button\" class=\"size-10 flex-center cursor-pointer rounded-full transition-[background-color",
+            "link": "scale] duration-200 ease-out-quart hover:bg-current/15 active:scale-90\" aria-label=\"æç´¢\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"currentColor\" class=\"size-7\"><title>Search</title><path d=\"M18.03 16.62 22.31 20.9 20.9 22.31 16.62 18.03A8.96 8.96 0 0 1 11 20a9 9 0 1 1 9-9 8.96 8.96 0 0 1-1.97 5.62Zm-2.01-.75A7 7 0 1 0 11 18a6.98 6.98 0 0 0 4.87-1.98l.15-.15Z\"></path></svg></button><div class=\"tablet:hidden flex-center\"></div><button class=\"theme-toggle size-10 flex-center cursor-pointer rounded-full transition-[background-color",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "scale] duration-200 ease-out-quart hover:bg-current/15 active:scale-90\" aria-label=\"åæ¢ä¸»é¢\" title=\"åæ¢ä¸»é¢\" type=\"button\"><span class=\"toggle block scale-80\"><span class=\"toggle-indicator block\"></span></span></button></div></div><!--astro:end--></astro-island> </div> </div>   </div> <!-- ç§»å¨ç«¯èåæé® --> <astro-island uid=\"1jT8Vb\" component-url=\"/_astro/MenuIcon.DE4FbqJf.js\" component-export=\"MenuIcon\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{&quot;className&quot;:[0"
+        },
+        {
+            "name": "</h2> <astro-island uid=\"1jSnwJ\" prefix=\"r92\" component-url=\"/_astro/WelcomeVisitor.Dfvi3d3u.js\" component-export=\"default\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{&quot;data-astro-cid-okhmunzb&quot;:[0",
+            "link": "true]}\" ssr client=\"load\" opts=\"{&quot;name&quot;:&quot;WelcomeVisitor&quot;",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "&quot;value&quot;:true}\" await-children><div class=\"welcome-card\"><div class=\"welcome-body\"><p class=\"welcome-line\">æ·±å¤äºð æ³¨æä¼æ¯å~</p><div class=\"welcome-skeleton-group\" aria-hidden=\"true\"><span class=\"welcome-skeleton\"></span><span class=\"welcome-skeleton welcome-skeleton-short\"></span></div></div></div><!--astro:end--></astro-island> </section> </div> <div slot=\"directory\" class=\"sider-slot overflow-hidden h-full\" data-slot-type=\"directory\" data-astro-cid-lo6vnqzn>  </div> <div slot=\"series\" class=\"sider-slot\" data-slot-type=\"series\" data-astro-cid-lo6vnqzn>  </div> </sider-content> <!-- å"
+        },
+        {
+            "name": "è¯»æ¶é¿\" data-astro-cid-oenwriqq> <svg width=\"1em\" height=\"1em\" class=\"h-4 w-4\" data-astro-cid-oenwriqq=\"true\" data-icon=\"ri:time-line\">   <symbol id=\"ai:ri:time-line\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10s-4.477 10-10 10m0-2a8 8 0 1 0 0-16a8 8 0 0 0 0 16m1-8h4v2h-6V7h2z\"/></symbol><use href=\"#ai:ri:time-line\"></use>  </svg> <span class=\"font-medium\" data-astro-cid-oenwriqq>2:36</span> </button> <div class=\"bg-muted-foreground/30 h-4 w-px\" data-astro-cid-oenwriqq></div> <button class=\"flex items-center gap-2 opacity-75 transition-opacity duration-300 hover:opacity-100\" title=\"æç« æ»æ°\" data-astro-cid-oenwriqq> <svg width=\"1em\" height=\"1em\" class=\"h-4 w-4\" data-astro-cid-oenwriqq=\"true\" data-icon=\"ri:article-line\">   <symbol id=\"ai:ri:article-line\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M20 22H4a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1m-1-2V4H5v16zM7 6h4v4H7zm0 6h10v2H7zm0 4h10v2H7zm6-9h4v2h-4z\"/></symbol><use href=\"#ai:ri:article-line\"></use>  </svg> <span class=\"font-medium\" data-astro-cid-oenwriqq>12</span> <span class=\"text-xs\" data-astro-cid-oenwriqq>ç¯</span> </button>  </div> <!-- Copyright --> <div class=\"text-muted-foreground flex items-center gap-0.5 text-sm\" data-astro-cid-oenwriqq> <span class=\"opacity-75\" data-astro-cid-oenwriqq>Â©</span> <span class=\"font-medium opacity-75\" data-astro-cid-oenwriqq>2025/7/14</span>  <span class=\"opacity-50\" data-astro-cid-oenwriqq>-</span> <span class=\"font-medium opacity-75\" itemprop=\"copyrightYear\" data-astro-cid-oenwriqq> 2026 </span>  <svg class=\"mx-1 size-5 animate-spin text-[#FFC0CB] duration-10000\" viewBox=\"0 0 512 512\" fill=\"currentColor\" aria-hidden=\"true\"><g><path fill=\"currentColor\" d=\"M330.555",
+            "link": "101.873c0-34.164-13.767-65.108-36.047-87.622c-2.432-2.465-9.63-4.349-14.212",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "3.466"
+        },
+        {
+            "name": "\t\tc-4.589",
+            "link": "7.808-17.205",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "27.431-17.205"
+        },
+        {
+            "name": "\t\tc0",
+            "link": "0-12.623-19.623-17.205-27.431c-4.582-7.815-11.781-5.931-14.219-3.466c-22.274",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "22.514-36.04"
+        },
+        {
+            "name": "\t\tc0",
+            "link": "51.02",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "30.663"
+        },
+        {
+            "name": "\t\tc-3.096",
+            "link": "1.555-7.117",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "7.822-1.096"
+        },
+        {
+            "name": "\t\tc-0.891",
+            "link": "2.74-3.13",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "4.829-5.918"
+        },
+        {
+            "name": "\t\tc14.527",
+            "link": "28.144",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "39.698"
+        },
+        {
+            "name": "\t\tc8.308-3.63",
+            "link": "30.054-12.088",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "30.054-12.088c2.672-1.062"
+        },
+        {
+            "name": "\t\tc0",
+            "link": "0-1.308",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "23.294-2.199"
+        },
+        {
+            "name": "\t\tc29.993-41.266",
+            "link": "30.944-94.758",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "6.781-136.155C177.332"
+        },
+        {
+            "name": "\t\tc3.418",
+            "link": "0.562",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "10.349-2.144"
+        },
+        {
+            "name": "\t\tc2.322-1.692",
+            "link": "5.363-2.062",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "8.034-1c0"
+        },
+        {
+            "name": "\t\tc4.787-31.308-2.254-64.43-22.342-92.074C385.246",
+            "link": "321.204",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "334.672"
+        },
+        {
+            "name": "\t\tc-0.89-2.732-0.308-5.74",
+            "link": "1.534-7.952c0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0"
+        },
+        {
+            "name": "\t\tc-28.301-14.232-61.978-17.76-94.485-7.205c-48.519",
+            "link": "15.767-80.731",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "58.472-85.512"
+        },
+        {
+            "name": "\t\tc31.91",
+            "link": "35.787",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "83.067"
+        },
+        {
+            "name": "\t\tC512.867",
+            "link": "224.624",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "512.449"
+        },
+        {
+            "name": "\t\tc-4.589",
+            "link": "7.808-17.205",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "27.431-17.205"
+        },
+        {
+            "name": "\t\tc0",
+            "link": "0-12.623-19.623-17.205-27.431c-4.582-7.815-11.781-5.931-14.219-3.466c-22.274",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "22.514-36.04"
+        },
+        {
+            "name": "\t\tc0",
+            "link": "51.02",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "30.663"
+        },
+        {
+            "name": "\t\tc-3.096",
+            "link": "1.555-7.117",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "7.822-1.096"
+        },
+        {
+            "name": "\t\tc-0.891",
+            "link": "2.74-3.13",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "4.829-5.918"
+        },
+        {
+            "name": "\t\tc14.527",
+            "link": "28.144",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "39.698"
+        },
+        {
+            "name": "\t\tc8.308-3.63",
+            "link": "30.054-12.088",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "30.054-12.088c2.672-1.062"
+        },
+        {
+            "name": "\t\tc0",
+            "link": "0-1.308",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "23.294-2.199"
+        },
+        {
+            "name": "\t\tc29.993-41.266",
+            "link": "30.944-94.758",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "6.781-136.155C177.332"
+        },
+        {
+            "name": "\t\tc3.418",
+            "link": "0.562",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "10.349-2.144"
+        },
+        {
+            "name": "\t\tc2.322-1.692",
+            "link": "5.363-2.062",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "8.034-1c0"
+        },
+        {
+            "name": "\t\tc4.787-31.308-2.254-64.43-22.342-92.074C385.246",
+            "link": "321.204",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "334.672"
+        },
+        {
+            "name": "\t\tc-0.89-2.732-0.308-5.74",
+            "link": "1.534-7.952c0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0"
+        },
+        {
+            "name": "\t\tc-28.301-14.232-61.978-17.76-94.485-7.205c-48.519",
+            "link": "15.767-80.731",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "58.472-85.512"
+        },
+        {
+            "name": "\t\tc31.91",
+            "link": "35.787",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "83.067"
+        },
+        {
+            "name": "\t\tC512.867",
+            "link": "224.624",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "512.449"
+        },
+        {
+            "name": "å« ä¸ç¯è®ºæï¼PDF æ ¼å¼ï¼ä»¥åæ¯æææï¼åç¼©æä»¶ï¼ æ°å­¦å»ºæ¨¡ç«èµçåºæ¬æµç¨ ç± å»ºæ¨¡æ å°é®é¢è½¬åä¸º æ° </p> <astro-island uid=\"Z1o88mw\" prefix=\"r121\" component-url=\"/_astro/ScrollableRow.FIAQYD42.js\" component-export=\"ScrollableRow\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{&quot;className&quot;:[0",
+            "link": "&quot;pt-1 pb-1 mr-18 md:mx-0 md:pl-0 md:pr-0&quot;]",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "&quot;innerClassName&quot;:[0"
+        },
+        {
+            "name": "</button> </a> </div> </div><div class=\"group text-card-foreground shadow-card relative flex rounded-lg bg-white md:flex-col dark:bg-card dark:ring-1 dark:ring-white/5 post-item-card motion-reveal\" data-astro-cid-gfdrlw66> <a href=\"/post/627a00f2\" tabindex=\"-1\" aria-hidden=\"true\" class=\"post-item-cover md:clip-path-none relative h-46.5 max-h-46.5 w-[calc(50%-2rem)] overflow-hidden md:w-auto rounded-s-lg clip-path-post-img-left order-1 md:clip-path-none md:order-0 lqip-fallback\" data-astro-cid-gfdrlw66> <img src=\"https://images.weserv.nl/?url=https://cdn.jsdelivr.net/gh/Weisifengbuxi/tuchuang@main/img/wenzhang5.2.jpeg\" loading=\"lazy\" alt=\"\" class=\"h-full w-full cursor-pointer object-cover\" data-astro-cid-gfdrlw66> </a> <div class=\"flex flex-col gap-2 pb-2 md:pb-4 pt-4 md:pt-1 px-4 md:px-4 w-[calc(50%+2rem)] md:w-full order-2 md:order-0\" data-astro-cid-gfdrlw66> <astro-island uid=\"1mdaGf\" prefix=\"r71\" component-url=\"/_astro/ScrollableRow.FIAQYD42.js\" component-export=\"ScrollableRow\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{&quot;className&quot;:[0",
+            "link": "&quot;w-full md:pl-0 md:pr-0&quot;]",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "&quot;innerClassName&quot;:[0"
+        },
+        {
+            "name": "æç»è¯¾åææ¯æ²¡æ³æ¥èç§ç®äºçï¼è¿ä¹ç»äºææ¥è¿20å¤©çæ¶é´ </p> <astro-island uid=\"M43XT\" prefix=\"r123\" component-url=\"/_astro/ScrollableRow.FIAQYD42.js\" component-export=\"ScrollableRow\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{&quot;className&quot;:[0",
+            "link": "&quot;pt-1 pb-1 ml-18 md:mx-0 md:pl-0 md:pr-0&quot;]",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "&quot;innerClassName&quot;:[0"
+        },
+        {
+            "name": "</button> </a> </div> </div><div class=\"group text-card-foreground shadow-card relative flex rounded-lg bg-white md:flex-col dark:bg-card dark:ring-1 dark:ring-white/5 post-item-card motion-reveal\" data-astro-cid-gfdrlw66> <a href=\"/post/c8bf33e5\" tabindex=\"-1\" aria-hidden=\"true\" class=\"post-item-cover md:clip-path-none relative h-46.5 max-h-46.5 w-[calc(50%-2rem)] overflow-hidden md:w-auto rounded-s-lg clip-path-post-img-left order-1 md:clip-path-none md:order-0 lqip-fallback\" data-astro-cid-gfdrlw66> <img src=\"https://images.weserv.nl/?url=https://cdn.jsdelivr.net/gh/Weisifengbuxi/tuchuang@main/img/fengmian8.1.jpg\" loading=\"lazy\" alt=\"\" class=\"h-full w-full cursor-pointer object-cover\" data-astro-cid-gfdrlw66> </a> <div class=\"flex flex-col gap-2 pb-2 md:pb-4 pt-4 md:pt-1 px-4 md:px-4 w-[calc(50%+2rem)] md:w-full order-2 md:order-0\" data-astro-cid-gfdrlw66> <astro-island uid=\"1YEddA\" prefix=\"r41\" component-url=\"/_astro/ScrollableRow.FIAQYD42.js\" component-export=\"ScrollableRow\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{&quot;className&quot;:[0",
+            "link": "&quot;w-full md:pl-0 md:pr-0&quot;]",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "&quot;innerClassName&quot;:[0"
+        },
+        {
+            "name": "ç½®èµ·æ¥ä¹éå¸¸ç®åãåäº«ä¸ä¸å¦ä½ä¸ºä½ ç </p> <astro-island uid=\"2wd5rC\" prefix=\"r103\" component-url=\"/_astro/ScrollableRow.FIAQYD42.js\" component-export=\"ScrollableRow\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{&quot;className&quot;:[0",
+            "link": "&quot;pt-1 pb-1 mr-18 md:mx-0 md:pl-0 md:pr-0&quot;]",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "&quot;innerClassName&quot;:[0"
+        },
+        {
+            "name": "¾è®¯äº</div> </a><a href=\"/tags/edgeone\" data-astro-cid-gfdrlw66> <div class=\"items-center rounded-full border py-0.5 focus:outline-hidden focus:ring-2 focus:ring-ring focus:ring-offset-2 md:px-1.5 border-badge-primary text-badge-primary hover:text-badge-primary/80 shrink-0 cursor-pointer gap-0.5 border-none px-1 text-xs font-bold whitespace-nowrap transition-colors duration-300 flex\" data-astro-cid-gfdrlw66=\"true\"> <svg width=\"1em\" height=\"1em\" viewBox=\"0 0 512 512\" data-astro-cid-gfdrlw66=\"true\" data-icon=\"fa6-solid:tags\">   <use href=\"#ai:fa6-solid:tags\"></use>  </svg> EdgeOne</div> </a><a href=\"/tags/cdn%E5%8A%A0%E9%80%9F\" data-astro-cid-gfdrlw66> <div class=\"items-center rounded-full border py-0.5 focus:outline-hidden focus:ring-2 focus:ring-ring focus:ring-offset-2 md:px-1.5 border-badge-primary text-badge-primary hover:text-badge-primary/80 shrink-0 cursor-pointer gap-0.5 border-none px-1 text-xs font-bold whitespace-nowrap transition-colors duration-300 flex\" data-astro-cid-gfdrlw66=\"true\"> <svg width=\"1em\" height=\"1em\" viewBox=\"0 0 512 512\" data-astro-cid-gfdrlw66=\"true\" data-icon=\"fa6-solid:tags\">   <use href=\"#ai:fa6-solid:tags\"></use>  </svg> CDNå é</div> </a></astro-slot></div></div><!--astro:end--></astro-island> <a href=\"/post/c8bf33e5\" tabindex=\"-1\" aria-hidden=\"true\" class=\"absolute -bottom-1 -right-1 md:left-auto md:-right-1\" data-astro-cid-gfdrlw66> <button class=\"inline-flex items-center justify-center whitespace-nowrap font-medium text-sm ring-offset-background ease-out-quart focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 active:scale-[0.97] disabled:pointer-events-none disabled:opacity-50 text-primary-foreground hover:bg-primary/90 h-10 px-4 py-2 post-item-more bg-gradient-shoka-button rounded-2xl transition-[translate",
+            "link": "box-shadow] duration-500 ease-out-expo md:h-7 md:px-2 md:py-1 md:text-xs rounded-se-none rounded-es-none group-hover:translate-x-1 md:rounded-ss-2xl md:rounded-se-none md:rounded-ee-2xl md:rounded-es-none md:group-hover:translate-x-1\" tabindex=\"-1\" data-astro-cid-gfdrlw66=\"true\">",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "</button> </a> </div> </div><div class=\"group text-card-foreground shadow-card relative flex rounded-lg bg-white md:flex-col dark:bg-card dark:ring-1 dark:ring-white/5 post-item-card motion-reveal\" data-astro-cid-gfdrlw66> <a href=\"/post/97906df8\" tabindex=\"-1\" aria-hidden=\"true\" class=\"post-item-cover md:clip-path-none relative h-46.5 max-h-46.5 w-[calc(50%-2rem)] overflow-hidden md:w-auto rounded-e-lg clip-path-post-img-right order-2 md:clip-path-none md:order-0 lqip-fallback\" data-astro-cid-gfdrlw66> <img src=\"https://images.weserv.nl/?url=https://cdn.jsdelivr.net/gh/Weisifengbuxi/tuchuang@main/img/fengmian7.1.png\" loading=\"lazy\" alt=\"\" class=\"h-full w-full cursor-pointer object-cover\" data-astro-cid-gfdrlw66> </a> <div class=\"flex flex-col gap-2 pb-2 md:pb-4 pt-4 md:pt-1 px-4 md:px-4 w-[calc(50%+2rem)] md:w-full order-1 md:order-0\" data-astro-cid-gfdrlw66> <astro-island uid=\"EETT1\" prefix=\"r48\" component-url=\"/_astro/ScrollableRow.FIAQYD42.js\" component-export=\"ScrollableRow\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{&quot;className&quot;:[0",
+            "link": "&quot;w-full md:pl-0 md:pr-0&quot;]",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "&quot;innerClassName&quot;:[0"
+        },
+        {
+            "name": "¥æåºï¼Insertion Sortï¼ å å½å¹¶æåº </p> <astro-island uid=\"jqRjW\" prefix=\"r107\" component-url=\"/_astro/ScrollableRow.FIAQYD42.js\" component-export=\"ScrollableRow\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{&quot;className&quot;:[0",
+            "link": "&quot;pt-1 pb-1 ml-18 md:mx-0 md:pl-0 md:pr-0&quot;]",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "&quot;innerClassName&quot;:[0"
+        },
+        {
+            "name": "¥æåº</div> </a><a href=\"/tags/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F\" data-astro-cid-gfdrlw66> <div class=\"items-center rounded-full border py-0.5 focus:outline-hidden focus:ring-2 focus:ring-ring focus:ring-offset-2 md:px-1.5 border-badge-primary text-badge-primary hover:text-badge-primary/80 shrink-0 cursor-pointer gap-0.5 border-none px-1 text-xs font-bold whitespace-nowrap transition-colors duration-300 flex\" data-astro-cid-gfdrlw66=\"true\"> <svg width=\"1em\" height=\"1em\" viewBox=\"0 0 512 512\" data-astro-cid-gfdrlw66=\"true\" data-icon=\"fa6-solid:tags\">   <use href=\"#ai:fa6-solid:tags\"></use>  </svg> å½å¹¶æåº</div> </a><a href=\"/tags/java\" data-astro-cid-gfdrlw66> <div class=\"items-center rounded-full border py-0.5 focus:outline-hidden focus:ring-2 focus:ring-ring focus:ring-offset-2 md:px-1.5 border-badge-primary text-badge-primary hover:text-badge-primary/80 shrink-0 cursor-pointer gap-0.5 border-none px-1 text-xs font-bold whitespace-nowrap transition-colors duration-300 flex\" data-astro-cid-gfdrlw66=\"true\"> <svg width=\"1em\" height=\"1em\" viewBox=\"0 0 512 512\" data-astro-cid-gfdrlw66=\"true\" data-icon=\"fa6-solid:tags\">   <use href=\"#ai:fa6-solid:tags\"></use>  </svg> Java</div> </a></astro-slot></div></div><!--astro:end--></astro-island> <a href=\"/post/97906df8\" tabindex=\"-1\" aria-hidden=\"true\" class=\"absolute -bottom-1 -left-1 md:left-auto md:-right-1\" data-astro-cid-gfdrlw66> <button class=\"inline-flex items-center justify-center whitespace-nowrap font-medium text-sm ring-offset-background ease-out-quart focus-visible:outline-hidden focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 active:scale-[0.97] disabled:pointer-events-none disabled:opacity-50 text-primary-foreground hover:bg-primary/90 h-10 px-4 py-2 post-item-more bg-gradient-shoka-button rounded-2xl transition-[translate",
+            "link": "box-shadow] duration-500 ease-out-expo md:h-7 md:px-2 md:py-1 md:text-xs rounded-ss-none rounded-ee-none group-hover:-translate-x-1 md:rounded-ss-2xl md:rounded-se-none md:rounded-ee-2xl md:rounded-es-none md:group-hover:translate-x-1\" tabindex=\"-1\" data-astro-cid-gfdrlw66=\"true\">",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "</button> </a> </div> </div><div class=\"group text-card-foreground shadow-card relative flex rounded-lg bg-white md:flex-col dark:bg-card dark:ring-1 dark:ring-white/5 post-item-card motion-reveal\" data-astro-cid-gfdrlw66> <a href=\"/post/7b8c168a\" tabindex=\"-1\" aria-hidden=\"true\" class=\"post-item-cover md:clip-path-none relative h-46.5 max-h-46.5 w-[calc(50%-2rem)] overflow-hidden md:w-auto rounded-s-lg clip-path-post-img-left order-1 md:clip-path-none md:order-0 lqip-fallback\" data-astro-cid-gfdrlw66> <img src=\"https://images.weserv.nl/?url=https://cdn.jsdelivr.net/gh/Weisifengbuxi/tuchuang@main/img/fengmian7.png\" loading=\"lazy\" alt=\"\" class=\"h-full w-full cursor-pointer object-cover\" data-astro-cid-gfdrlw66> </a> <div class=\"flex flex-col gap-2 pb-2 md:pb-4 pt-4 md:pt-1 px-4 md:px-4 w-[calc(50%+2rem)] md:w-full order-2 md:order-0\" data-astro-cid-gfdrlw66> <astro-island uid=\"Z1dkPBC\" prefix=\"r61\" component-url=\"/_astro/ScrollableRow.FIAQYD42.js\" component-export=\"ScrollableRow\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{&quot;className&quot;:[0",
+            "link": "&quot;w-full md:pl-0 md:pr-0&quot;]",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "&quot;innerClassName&quot;:[0"
+        },
+        {
+            "name": "³é®çè®ºçªç ´ã åºæ¬é»è¾é¨çµè·¯ é»è¾é¨çæ¬è´¨ ï¼æ¯å®ç°å¸å°å½æ°çæ°å­çµè·¯ï¼æ¥æ¶  </p> <astro-island uid=\"Z1UUx6E\" prefix=\"r118\" component-url=\"/_astro/ScrollableRow.FIAQYD42.js\" component-export=\"ScrollableRow\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{&quot;className&quot;:[0",
+            "link": "&quot;pt-1 pb-1 mr-18 md:mx-0 md:pl-0 md:pr-0&quot;]",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "&quot;innerClassName&quot;:[0"
+        },
+        {
+            "name": "</button> </a> </div> </div><div class=\"group text-card-foreground shadow-card relative flex rounded-lg bg-white md:flex-col dark:bg-card dark:ring-1 dark:ring-white/5 post-item-card motion-reveal\" data-astro-cid-gfdrlw66> <a href=\"/post/6650a8f9\" tabindex=\"-1\" aria-hidden=\"true\" class=\"post-item-cover md:clip-path-none relative h-46.5 max-h-46.5 w-[calc(50%-2rem)] overflow-hidden md:w-auto rounded-e-lg clip-path-post-img-right order-2 md:clip-path-none md:order-0 lqip-fallback\" data-astro-cid-gfdrlw66> <img src=\"https://images.weserv.nl/?url=https://cdn.jsdelivr.net/gh/Weisifengbuxi/tuchuang@main/img/fengmian6.png\" loading=\"lazy\" alt=\"\" class=\"h-full w-full cursor-pointer object-cover\" data-astro-cid-gfdrlw66> </a> <div class=\"flex flex-col gap-2 pb-2 md:pb-4 pt-4 md:pt-1 px-4 md:px-4 w-[calc(50%+2rem)] md:w-full order-1 md:order-0\" data-astro-cid-gfdrlw66> <astro-island uid=\"Xj8sb\" prefix=\"r66\" component-url=\"/_astro/ScrollableRow.FIAQYD42.js\" component-export=\"ScrollableRow\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{&quot;className&quot;:[0",
+            "link": "&quot;w-full md:pl-0 md:pr-0&quot;]",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "&quot;innerClassName&quot;:[0"
+        },
+        {
+            "name": "è¯»æ¶é¿: 26 min read\" data-tooltip-placement=\"top\" data-astro-cid-gfdrlw66> <svg width=\"1em\" height=\"1em\" viewBox=\"0 0 512 512\" data-astro-cid-gfdrlw66=\"true\" data-icon=\"fa6-solid:clock\">   <use href=\"#ai:fa6-solid:clock\"></use>  </svg> 26 min read </button>  </div> </astro-slot></div></div><!--astro:end--></astro-island> <div class=\"mt-1 flex flex-col space-y-1.5 p-0 md:pl-0 md:pr-0\" data-astro-cid-gfdrlw66> <div class=\"flex items-center gap-2\" data-astro-cid-gfdrlw66> <a href=\"/post/6650a8f9\" class=\"min-w-0 flex-1 outline-none\" data-astro-cid-gfdrlw66> <h2 data-astro-transition-scope=\"astro-hmqafamt-8\" class=\"text-primary hover:text-blue line-clamp-1 w-fit max-w-full truncate text-xl font-bold transition-colors duration-300\" data-morph=\"post-title-6650a8f9\" data-astro-cid-gfdrlw66> ãå­¦ä¹ ç¬è®°ãé¾è¡¨ãæ ãéåçå®ç°æ¹æ³ </h2> </a>   </div> </div> <p class=\"text-muted-foreground line-clamp-3 h-15 text-sm md:h-auto md:max-h-15 md:pl-0 md:pr-0\" data-astro-cid-gfdrlw66> é¾è¡¨ï¼Linked Listï¼ ã æ ï¼Stackï¼ ã éåï¼Queueï¼ æ¯æ°æ®ç»æä¸­æåºç¡çä¸å¤§ç»æï¼è¿æä¸ä¸ªæ¯æ°ç»ï¼ã çæå¹¶ææ¡ æ°æ®ç»æåç®æ³æ¯åæ ¼ç¨åºååºæ¬åä¹ä¸ï¼ä¸åçç»æå¨ä¸åçåºç¨åºæ¯ä¸­å¾å¾ä¼å¸¦æ¥ä¸ä¸æ ·ç å¤çæç ãä¹åæç« ä¸­å·²ç»ä»ç»äºé¾è¡¨ï¼æ¬æå°ä»ç»æ åéåï¼ä»¥åè¿ä¸ç§ç»æç </p> <astro-island uid=\"3t4MG\" prefix=\"r119\" component-url=\"/_astro/ScrollableRow.FIAQYD42.js\" component-export=\"ScrollableRow\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{&quot;className&quot;:[0",
+            "link": "&quot;pt-1 pb-1 ml-18 md:mx-0 md:pl-0 md:pr-0&quot;]",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "&quot;innerClassName&quot;:[0"
+        },
+        {
+            "name": "</button> </a> </div> </div><div class=\"group text-card-foreground shadow-card relative flex rounded-lg bg-white md:flex-col dark:bg-card dark:ring-1 dark:ring-white/5 post-item-card motion-reveal\" data-astro-cid-gfdrlw66> <a href=\"/post/627a00f2\" tabindex=\"-1\" aria-hidden=\"true\" class=\"post-item-cover md:clip-path-none relative h-46.5 max-h-46.5 w-[calc(50%-2rem)] overflow-hidden md:w-auto rounded-s-lg clip-path-post-img-left order-1 md:clip-path-none md:order-0 lqip-fallback\" data-astro-cid-gfdrlw66> <img src=\"https://images.weserv.nl/?url=https://cdn.jsdelivr.net/gh/Weisifengbuxi/tuchuang@main/img/wenzhang5.2.jpeg\" loading=\"lazy\" alt=\"\" class=\"h-full w-full cursor-pointer object-cover\" data-astro-cid-gfdrlw66> </a> <div class=\"flex flex-col gap-2 pb-2 md:pb-4 pt-4 md:pt-1 px-4 md:px-4 w-[calc(50%+2rem)] md:w-full order-2 md:order-0\" data-astro-cid-gfdrlw66> <astro-island uid=\"1mdaGf\" prefix=\"r71\" component-url=\"/_astro/ScrollableRow.FIAQYD42.js\" component-export=\"ScrollableRow\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{&quot;className&quot;:[0",
+            "link": "&quot;w-full md:pl-0 md:pr-0&quot;]",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "&quot;innerClassName&quot;:[0"
+        },
+        {
+            "name": "±åå¬è¯¾ï¼Labè¯¾åç±åä½TA </p> <astro-island uid=\"1oCKnp\" prefix=\"r120\" component-url=\"/_astro/ScrollableRow.FIAQYD42.js\" component-export=\"ScrollableRow\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{&quot;className&quot;:[0",
+            "link": "&quot;pt-1 pb-1 mr-18 md:mx-0 md:pl-0 md:pr-0&quot;]",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "&quot;innerClassName&quot;:[0"
+        },
+        {
+            "name": "</button> </a> </div> </div><div class=\"group text-card-foreground shadow-card relative flex rounded-lg bg-white md:flex-col dark:bg-card dark:ring-1 dark:ring-white/5 post-item-card motion-reveal\" data-astro-cid-gfdrlw66> <a href=\"/post/3be0a65\" tabindex=\"-1\" aria-hidden=\"true\" class=\"post-item-cover md:clip-path-none relative h-46.5 max-h-46.5 w-[calc(50%-2rem)] overflow-hidden md:w-auto rounded-e-lg clip-path-post-img-right order-2 md:clip-path-none md:order-0 lqip-fallback\" data-astro-cid-gfdrlw66> <img src=\"https://images.weserv.nl/?url=https://cdn.jsdelivr.net/gh/Weisifengbuxi/tuchuang@main/img/lianbiao.png\" loading=\"lazy\" alt=\"\" class=\"h-full w-full cursor-pointer object-cover\" data-astro-cid-gfdrlw66> </a> <div class=\"flex flex-col gap-2 pb-2 md:pb-4 pt-4 md:pt-1 px-4 md:px-4 w-[calc(50%+2rem)] md:w-full order-1 md:order-0\" data-astro-cid-gfdrlw66> <astro-island uid=\"1OuA2y\" prefix=\"r74\" component-url=\"/_astro/ScrollableRow.FIAQYD42.js\" component-export=\"ScrollableRow\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{&quot;className&quot;:[0",
+            "link": "&quot;w-full md:pl-0 md:pr-0&quot;]",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "&quot;innerClassName&quot;:[0"
+        },
+        {
+            "name": "·ä½ç»èã Lab 1 </p> <astro-island uid=\"27i1Ex\" prefix=\"r122\" component-url=\"/_astro/ScrollableRow.FIAQYD42.js\" component-export=\"ScrollableRow\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{&quot;className&quot;:[0",
+            "link": "&quot;pt-1 pb-1 ml-18 md:mx-0 md:pl-0 md:pr-0&quot;]",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "&quot;innerClassName&quot;:[0"
+        },
+        {
+            "name": "</button> </a> </div> </div><div class=\"group text-card-foreground shadow-card relative flex rounded-lg bg-white md:flex-col dark:bg-card dark:ring-1 dark:ring-white/5 post-item-card motion-reveal\" data-astro-cid-gfdrlw66> <a href=\"/post/ef6a5850\" tabindex=\"-1\" aria-hidden=\"true\" class=\"post-item-cover md:clip-path-none relative h-46.5 max-h-46.5 w-[calc(50%-2rem)] overflow-hidden md:w-auto rounded-s-lg clip-path-post-img-left order-1 md:clip-path-none md:order-0 lqip-fallback\" data-astro-cid-gfdrlw66> <img src=\"https://images.weserv.nl/?url=https://cdn.jsdelivr.net/gh/Weisifengbuxi/tuchuang@main/img/fengmian3.jpg\" loading=\"lazy\" alt=\"\" class=\"h-full w-full cursor-pointer object-cover\" data-astro-cid-gfdrlw66> </a> <div class=\"flex flex-col gap-2 pb-2 md:pb-4 pt-4 md:pt-1 px-4 md:px-4 w-[calc(50%+2rem)] md:w-full order-2 md:order-0\" data-astro-cid-gfdrlw66> <astro-island uid=\"Z1m8BJY\" prefix=\"r76\" component-url=\"/_astro/ScrollableRow.FIAQYD42.js\" component-export=\"ScrollableRow\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{&quot;className&quot;:[0",
+            "link": "&quot;w-full md:pl-0 md:pr-0&quot;]",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "&quot;innerClassName&quot;:[0"
+        },
+        {
+            "name": "å« ä¸ç¯è®ºæï¼PDF æ ¼å¼ï¼ä»¥åæ¯æææï¼åç¼©æä»¶ï¼ æ°å­¦å»ºæ¨¡ç«èµçåºæ¬æµç¨ ç± å»ºæ¨¡æ å°é®é¢è½¬åä¸º æ° </p> <astro-island uid=\"Z1o88mw\" prefix=\"r121\" component-url=\"/_astro/ScrollableRow.FIAQYD42.js\" component-export=\"ScrollableRow\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{&quot;className&quot;:[0",
+            "link": "&quot;pt-1 pb-1 mr-18 md:mx-0 md:pl-0 md:pr-0&quot;]",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "&quot;innerClassName&quot;:[0"
+        },
+        {
+            "name": "</button> </a> </div> </div><div class=\"group text-card-foreground shadow-card relative flex rounded-lg bg-white md:flex-col dark:bg-card dark:ring-1 dark:ring-white/5 post-item-card motion-reveal\" data-astro-cid-gfdrlw66> <a href=\"/post/74bcc131\" tabindex=\"-1\" aria-hidden=\"true\" class=\"post-item-cover md:clip-path-none relative h-46.5 max-h-46.5 w-[calc(50%-2rem)] overflow-hidden md:w-auto rounded-e-lg clip-path-post-img-right order-2 md:clip-path-none md:order-0 lqip-fallback\" data-astro-cid-gfdrlw66> <img src=\"https://images.weserv.nl/?url=https://cdn.jsdelivr.net/gh/Weisifengbuxi/tuchuang@main/img/fengmian1.jpg\" loading=\"lazy\" alt=\"\" class=\"h-full w-full cursor-pointer object-cover\" data-astro-cid-gfdrlw66> </a> <div class=\"flex flex-col gap-2 pb-2 md:pb-4 pt-4 md:pt-1 px-4 md:px-4 w-[calc(50%+2rem)] md:w-full order-1 md:order-0\" data-astro-cid-gfdrlw66> <astro-island uid=\"Z12pbwp\" prefix=\"r83\" component-url=\"/_astro/ScrollableRow.FIAQYD42.js\" component-export=\"ScrollableRow\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{&quot;className&quot;:[0",
+            "link": "&quot;w-full md:pl-0 md:pr-0&quot;]",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "&quot;innerClassName&quot;:[0"
+        },
+        {
+            "name": "æç»è¯¾åææ¯æ²¡æ³æ¥èç§ç®äºçï¼è¿ä¹ç»äºææ¥è¿20å¤©çæ¶é´ </p> <astro-island uid=\"M43XT\" prefix=\"r123\" component-url=\"/_astro/ScrollableRow.FIAQYD42.js\" component-export=\"ScrollableRow\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{&quot;className&quot;:[0",
+            "link": "&quot;pt-1 pb-1 ml-18 md:mx-0 md:pl-0 md:pr-0&quot;]",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "&quot;innerClassName&quot;:[0"
+        },
+        {
+            "name": "</button> </a> </div> </div> </div> <nav class=\"paginator flex-center gap-1.5 font-bold\" aria-label=\"åé¡µ\"> <button class=\"inline-flex items-center justify-center whitespace-nowrap font-medium text-sm ring-offset-background transition-[color",
+            "link": "background-color",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "border-color"
+        },
+        {
+            "name": "\t\tc-4.589",
+            "link": "7.808-17.205",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "27.431-17.205"
+        },
+        {
+            "name": "\t\tc0",
+            "link": "0-12.623-19.623-17.205-27.431c-4.582-7.815-11.781-5.931-14.219-3.466c-22.274",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "22.514-36.04"
+        },
+        {
+            "name": "\t\tc0",
+            "link": "51.02",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "30.663"
+        },
+        {
+            "name": "\t\tc-3.096",
+            "link": "1.555-7.117",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "7.822-1.096"
+        },
+        {
+            "name": "\t\tc-0.891",
+            "link": "2.74-3.13",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "4.829-5.918"
+        },
+        {
+            "name": "\t\tc14.527",
+            "link": "28.144",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "39.698"
+        },
+        {
+            "name": "\t\tc8.308-3.63",
+            "link": "30.054-12.088",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "30.054-12.088c2.672-1.062"
+        },
+        {
+            "name": "\t\tc0",
+            "link": "0-1.308",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "23.294-2.199"
+        },
+        {
+            "name": "\t\tc29.993-41.266",
+            "link": "30.944-94.758",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "6.781-136.155C177.332"
+        },
+        {
+            "name": "\t\tc3.418",
+            "link": "0.562",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "10.349-2.144"
+        },
+        {
+            "name": "\t\tc2.322-1.692",
+            "link": "5.363-2.062",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "8.034-1c0"
+        },
+        {
+            "name": "\t\tc4.787-31.308-2.254-64.43-22.342-92.074C385.246",
+            "link": "321.204",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "334.672"
+        },
+        {
+            "name": "\t\tc-0.89-2.732-0.308-5.74",
+            "link": "1.534-7.952c0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0"
+        },
+        {
+            "name": "\t\tc-28.301-14.232-61.978-17.76-94.485-7.205c-48.519",
+            "link": "15.767-80.731",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "58.472-85.512"
+        },
+        {
+            "name": "\t\tc31.91",
+            "link": "35.787",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "83.067"
+        },
+        {
+            "name": "\t\tC512.867",
+            "link": "224.624",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "512.449"
+        },
+        {
+            "name": "\t\tc-4.589",
+            "link": "7.808-17.205",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "27.431-17.205"
+        },
+        {
+            "name": "\t\tc0",
+            "link": "0-12.623-19.623-17.205-27.431c-4.582-7.815-11.781-5.931-14.219-3.466c-22.274",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "22.514-36.04"
+        },
+        {
+            "name": "\t\tc0",
+            "link": "51.02",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "30.663"
+        },
+        {
+            "name": "\t\tc-3.096",
+            "link": "1.555-7.117",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "7.822-1.096"
+        },
+        {
+            "name": "\t\tc-0.891",
+            "link": "2.74-3.13",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "4.829-5.918"
+        },
+        {
+            "name": "\t\tc14.527",
+            "link": "28.144",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "39.698"
+        },
+        {
+            "name": "\t\tc8.308-3.63",
+            "link": "30.054-12.088",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "30.054-12.088c2.672-1.062"
+        },
+        {
+            "name": "\t\tc0",
+            "link": "0-1.308",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "23.294-2.199"
+        },
+        {
+            "name": "\t\tc29.993-41.266",
+            "link": "30.944-94.758",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "6.781-136.155C177.332"
+        },
+        {
+            "name": "\t\tc3.418",
+            "link": "0.562",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "10.349-2.144"
+        },
+        {
+            "name": "\t\tc2.322-1.692",
+            "link": "5.363-2.062",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "8.034-1c0"
+        },
+        {
+            "name": "\t\tc4.787-31.308-2.254-64.43-22.342-92.074C385.246",
+            "link": "321.204",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "334.672"
+        },
+        {
+            "name": "\t\tc-0.89-2.732-0.308-5.74",
+            "link": "1.534-7.952c0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0"
+        },
+        {
+            "name": "\t\tc-28.301-14.232-61.978-17.76-94.485-7.205c-48.519",
+            "link": "15.767-80.731",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "58.472-85.512"
+        },
+        {
+            "name": "\t\tc31.91",
+            "link": "35.787",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "83.067"
+        },
+        {
+            "name": "\t\tC512.867",
+            "link": "224.624",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "512.449"
+        },
+        {
+            "name": "</button> </a> </div> </div> </div> </div><div class=\"flip-card h-56 motion-reveal\" data-direction=\"horizontal\" style=\"--duration: 600;--delay: 100;\" data-astro-cid-zwsxqmrs> <div class=\"flip-card-inner\" style=\"--duration: 600;--delay: 100;\" data-astro-cid-zwsxqmrs> <div class=\"flip-card-front\" style=\"--duration: 600;--delay: 100;\" data-astro-cid-zwsxqmrs> <div class=\"flex-center relative h-full rounded-md px-2 py-4\"> <img style=\"background-image:linear-gradient(135deg",
+            "link": " #87a3c4 0%",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "#c2dfef 50%"
+        },
+        {
+            "name": "</button> </a> </div> </div> </div> </div><div class=\"flip-card h-56 motion-reveal\" data-direction=\"horizontal\" style=\"--duration: 600;--delay: 100;\" data-astro-cid-zwsxqmrs> <div class=\"flip-card-inner\" style=\"--duration: 600;--delay: 100;\" data-astro-cid-zwsxqmrs> <div class=\"flip-card-front\" style=\"--duration: 600;--delay: 100;\" data-astro-cid-zwsxqmrs> <div class=\"flex-center relative h-full rounded-md px-2 py-4\"> <img style=\"background-image:linear-gradient(135deg",
+            "link": " #7a775b 0%",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "#9d9470 50%"
+        },
+        {
+            "name": "</button> </a> </div> </div> </div> </div><div class=\"flip-card h-56 motion-reveal\" data-direction=\"horizontal\" style=\"--duration: 600;--delay: 100;\" data-astro-cid-zwsxqmrs> <div class=\"flip-card-inner\" style=\"--duration: 600;--delay: 100;\" data-astro-cid-zwsxqmrs> <div class=\"flip-card-front\" style=\"--duration: 600;--delay: 100;\" data-astro-cid-zwsxqmrs> <div class=\"flex-center relative h-full rounded-md px-2 py-4\"> <img style=\"background-image:linear-gradient(135deg",
+            "link": " #c7d3e4 0%",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "#c5d2e6 50%"
+        },
+        {
+            "name": "</button> </a> </div> </div> </div> </div><div class=\"flip-card h-56 motion-reveal\" data-direction=\"horizontal\" style=\"--duration: 600;--delay: 100;\" data-astro-cid-zwsxqmrs> <div class=\"flip-card-inner\" style=\"--duration: 600;--delay: 100;\" data-astro-cid-zwsxqmrs> <div class=\"flip-card-front\" style=\"--duration: 600;--delay: 100;\" data-astro-cid-zwsxqmrs> <div class=\"flex-center relative h-full rounded-md px-2 py-4\"> <img style=\"background-image:linear-gradient(135deg",
+            "link": " #6e3b38 0%",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "#ae7472 50%"
+        },
+        {
+            "name": "</button> </a> </div> </div> </div> </div> </div>  </div>  <div class=\"tablet:grid-cols-1 grid grid-cols-2 gap-4 px-10 md:px-6\">  <astro-island uid=\"2pMxsr\" component-url=\"/_astro/RandomPostList.CAzIEtEI.js\" component-export=\"default\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{&quot;postsPool&quot;:[1",
+            "link": "[[0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "{&quot;slug&quot;:[0"
+        },
+        {
+            "name": "è´¹çEdgeOne CDNå éæå¡&quot;]",
+            "link": "&quot;categoryName&quot;:[0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "&quot;å·¥å"
+        },
+        {
+            "name": "·&quot;]}]",
+            "link": "[0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "{&quot;slug&quot;:[0"
+        },
+        {
+            "name": "¥æåºä¸å½å¹¶æåº&quot;]",
+            "link": "&quot;categoryName&quot;:[0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "&quot;æåº&quot;]}]"
+        },
+        {
+            "name": "è¯»æ¶é¿\" data-astro-cid-oenwriqq> <svg width=\"1em\" height=\"1em\" class=\"h-4 w-4\" data-astro-cid-oenwriqq=\"true\" data-icon=\"ri:time-line\">   <symbol id=\"ai:ri:time-line\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10s-4.477 10-10 10m0-2a8 8 0 1 0 0-16a8 8 0 0 0 0 16m1-8h4v2h-6V7h2z\"/></symbol><use href=\"#ai:ri:time-line\"></use>  </svg> <span class=\"font-medium\" data-astro-cid-oenwriqq>2:36</span> </button> <div class=\"bg-muted-foreground/30 h-4 w-px\" data-astro-cid-oenwriqq></div> <button class=\"flex items-center gap-2 opacity-75 transition-opacity duration-300 hover:opacity-100\" title=\"æç« æ»æ°\" data-astro-cid-oenwriqq> <svg width=\"1em\" height=\"1em\" class=\"h-4 w-4\" data-astro-cid-oenwriqq=\"true\" data-icon=\"ri:article-line\">   <symbol id=\"ai:ri:article-line\" viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M20 22H4a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1m-1-2V4H5v16zM7 6h4v4H7zm0 6h10v2H7zm0 4h10v2H7zm6-9h4v2h-4z\"/></symbol><use href=\"#ai:ri:article-line\"></use>  </svg> <span class=\"font-medium\" data-astro-cid-oenwriqq>12</span> <span class=\"text-xs\" data-astro-cid-oenwriqq>ç¯</span> </button>  </div> <!-- Copyright --> <div class=\"text-muted-foreground flex items-center gap-0.5 text-sm\" data-astro-cid-oenwriqq> <span class=\"opacity-75\" data-astro-cid-oenwriqq>Â©</span> <span class=\"font-medium opacity-75\" data-astro-cid-oenwriqq>2025/7/14</span>  <span class=\"opacity-50\" data-astro-cid-oenwriqq>-</span> <span class=\"font-medium opacity-75\" itemprop=\"copyrightYear\" data-astro-cid-oenwriqq> 2026 </span>  <svg class=\"mx-1 size-5 animate-spin text-[#FFC0CB] duration-10000\" viewBox=\"0 0 512 512\" fill=\"currentColor\" aria-hidden=\"true\"><g><path fill=\"currentColor\" d=\"M330.555",
+            "link": "101.873c0-34.164-13.767-65.108-36.047-87.622c-2.432-2.465-9.63-4.349-14.212",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "3.466"
+        },
+        {
+            "name": "\t\tc-4.589",
+            "link": "7.808-17.205",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "27.431-17.205"
+        },
+        {
+            "name": "\t\tc0",
+            "link": "0-12.623-19.623-17.205-27.431c-4.582-7.815-11.781-5.931-14.219-3.466c-22.274",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "22.514-36.04"
+        },
+        {
+            "name": "\t\tc0",
+            "link": "51.02",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "30.663"
+        },
+        {
+            "name": "\t\tc-3.096",
+            "link": "1.555-7.117",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "7.822-1.096"
+        },
+        {
+            "name": "\t\tc-0.891",
+            "link": "2.74-3.13",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "4.829-5.918"
+        },
+        {
+            "name": "\t\tc14.527",
+            "link": "28.144",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "39.698"
+        },
+        {
+            "name": "\t\tc8.308-3.63",
+            "link": "30.054-12.088",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "30.054-12.088c2.672-1.062"
+        },
+        {
+            "name": "\t\tc0",
+            "link": "0-1.308",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "23.294-2.199"
+        },
+        {
+            "name": "\t\tc29.993-41.266",
+            "link": "30.944-94.758",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "6.781-136.155C177.332"
+        },
+        {
+            "name": "\t\tc3.418",
+            "link": "0.562",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "10.349-2.144"
+        },
+        {
+            "name": "\t\tc2.322-1.692",
+            "link": "5.363-2.062",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "8.034-1c0"
+        },
+        {
+            "name": "\t\tc4.787-31.308-2.254-64.43-22.342-92.074C385.246",
+            "link": "321.204",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "334.672"
+        },
+        {
+            "name": "\t\tc-0.89-2.732-0.308-5.74",
+            "link": "1.534-7.952c0",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "0"
+        },
+        {
+            "name": "\t\tc-28.301-14.232-61.978-17.76-94.485-7.205c-48.519",
+            "link": "15.767-80.731",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "58.472-85.512"
+        },
+        {
+            "name": "\t\tc31.91",
+            "link": "35.787",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "83.067"
+        },
+        {
+            "name": "\t\tC512.867",
+            "link": "224.624",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "512.449"
+        },
+        {
+            "name": "</a> </div> </div> </footer> </div> </div> </div>   </main>  <astro-island uid=\"TWS5R\" component-url=\"/_astro/FloatingGroup.CYzdORiY.js\" component-export=\"default\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{}\" ssr client=\"only\" opts=\"{&quot;name&quot;:&quot;FloatingGroup&quot;",
+            "link": "&quot;value&quot;:&quot;react&quot;}\"></astro-island> <script>(()=>{var l=(n",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "t)=>{let i=async()=>{await(await n())()}"
+        },
+        {
+            "name": "³é­èå\" class=\"drawer-close text-shoka\"> <svg viewBox=\"0 0 24 24\" class=\"size-6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" aria-hidden=\"true\"> <line x1=\"5.64\" y1=\"5.64\" x2=\"18.36\" y2=\"18.36\"></line> <line x1=\"18.36\" y1=\"5.64\" x2=\"5.64\" y2=\"18.36\"></line> </svg> </button>  </div> <div data-astro-transition-scope=\"astro-bddlvhab-13\" class=\"drawer-sider flex min-h-0 flex-1 flex-col px-3\" data-astro-cid-lo6vnqzn>  <sider-content class=\"flex-1 overflow-x-hidden overflow-y-auto overscroll-contain toc-scroll-fade scrollbar-hidden\" data-type=\"home\" data-default-type=\"info\" data-astro-cid-lo6vnqzn=\"true\"> <div slot=\"info\" class=\"sider-slot\" data-slot-type=\"info\" data-astro-cid-lo6vnqzn> <div class=\"home-info\" data-variant=\"drawer\" data-home-info-container> <div class=\"home-profile\" data-home-profile> <div class=\"home-identity\"> <div class=\"home-avatar\" style=\"background-image:linear-gradient(135deg",
+            "link": " #205671 0%",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "#265870 50%"
+        },
+        {
+            "name": "</h2> <astro-island uid=\"1jSnwJ\" prefix=\"r92\" component-url=\"/_astro/WelcomeVisitor.Dfvi3d3u.js\" component-export=\"default\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{&quot;data-astro-cid-okhmunzb&quot;:[0",
+            "link": "true]}\" ssr client=\"load\" opts=\"{&quot;name&quot;:&quot;WelcomeVisitor&quot;",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "&quot;value&quot;:true}\" await-children><div class=\"welcome-card\"><div class=\"welcome-body\"><p class=\"welcome-line\">æ·±å¤äºð æ³¨æä¼æ¯å~</p><div class=\"welcome-skeleton-group\" aria-hidden=\"true\"><span class=\"welcome-skeleton\"></span><span class=\"welcome-skeleton welcome-skeleton-short\"></span></div></div></div><!--astro:end--></astro-island> </section> </div> <div slot=\"directory\" class=\"sider-slot overflow-hidden h-full\" data-slot-type=\"directory\" data-astro-cid-lo6vnqzn>  </div> <div slot=\"series\" class=\"sider-slot\" data-slot-type=\"series\" data-astro-cid-lo6vnqzn>  </div> </sider-content> <!-- å"
+        },
+        {
+            "name": "  </script> </div>  </div> <script type=\"module\" src=\"/_astro/MobileDrawer.astro_astro_type_script_index_0_lang.D0ftIWpq.js\"></script> <astro-island uid=\"1y4qW3\" prefix=\"r77\" component-url=\"/_astro/SearchDialog.AYNaFIpk.js\" component-export=\"default\" renderer-url=\"/_astro/client.CcKcE1OL.js\" props=\"{}\" ssr client=\"idle\" opts=\"{&quot;name&quot;:&quot;SearchDialog&quot;",
+            "link": "&quot;value&quot;:true}\"></astro-island> <!-- Search Component - will be portal'd into dialog --> <div id=\"search-component-portal\" data-astro-cid-sh5tgklq> <div id=\"search-for-dialog\" data-astro-cid-sh5tgklq> <pagefind-config lang=\"zh-CN\" bundle-path=\"/pagefind/\"></pagefind-config> <script type=\"module\" src=\"/_astro/PagefindConfig.astro_astro_type_script_index_0_lang.hMEz0n5-.js\"></script> <pagefind-searchbox placeholder=\"è¯·è¾å",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": ""
+        },
+        {
+            "name": "³é®è¯æç´¢\" hide-shortcut=\"true\" show-keyboard-hints=\"false\" class=\"pagefind-search\"></pagefind-searchbox> </div> </div> <script type=\"module\">function e(){let e=document.getElementById(`search-dialog-container`)",
+            "link": "t=document.getElementById(`search-component-portal`)",
+            "latency": -1,
+            "fail_count": 7,
+            "has_author_link": false,
+            "linkpage": "n=document.getElementById(`search-for-dialog`);!e||!t||!n||e.contains(n)||e.appendChild(n)}function t(){let e=document.getElementById(`search-for-dialog`)"
+        }
+    ]
+}
